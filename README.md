@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @rocko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# AI Engineer focused on Systems Engineering and Information Engineering.
 
-<!---
-rocko/rocko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Work centers on designing, integrating, and evaluating technical systems involving machine learning, data pipelines, automation, and complex information flows.
+
+Strong practical programming background with Python and related tooling, primarily used to prototype, analyze, integrate, and extend systems rather than as an end in itself.
+
+## Focus
+
+- Artificial intelligence and machine learning
+- Self-supervised learning and representation analysis
+- Systems engineering
+- Information engineering
+- Data acquisition, processing, validation, and integration
+- Technical prototyping and automation
+- Model evaluation and diagnostic tooling
+- Human-machine and hardware/software integration
